@@ -1,0 +1,49 @@
+Subject = 'GI-Dissertationspreis 2018',
+
+(je nach dem) Sehr geehrte Frau/ Sehr geehrter Herr Dr. ****
+
+
+Sie wurden von Ihrer Universität für den GI-Dissertationspreis vorgeschlagen. Im Namen von Herrn Professor Hölldobler, dem Vorsitzenden des Nominierungausschusses, herzlichen Glückwunsch!
+
+Im Rahmen des Auswahlverfahrens sind Sie zu einem Kolloquium auf Schloss Dagstuhl vom 26.-29.5.2019 eingeladen (http://www.wv.inf.tu-dresden.de/GIDiss/kolloquium.html). 
+
+Der Türcode für Ihre Veranstaltung lautet: 7411F
+
+Informationen für Teilnehmer und Reisehinweise:
+http://www.dagstuhl.de/programm/veranstaltungen/infos-anreisende-teilnehmer/
+
+Die Kosten für den Aufenthalt im Schloss Dagstuhl übernimmt die Gesellschaft für Informatik e.V. Genaue Details erhalten Sie in Folge.
+
+Damit wir passend ein Zimmer reservieren können, bitten wir Sie spätestens bis zum 31.3.2019 an Frau Clemens (heike.clemens@dagstuhl.de) Folgendes verbindlich mitzuteilen:
+- ob Sie an dem Kolloquium teilnehmen,
+- an welchen Tagen Sie an- und abreisen werden (Sonntag 26.5. ist als Anreisetag gedacht; das Kolloquium endet voraussichtlich am Mittwoch 29.5. am Nachmittag), und - ob Sie besondere Wünsche bzgl. des Essens oder Zimmers haben.
+- wären Sie im Notfall bereit mit einem anderen Kandidaten (gleichen Geschlechts natürlich) ein Zimmer zu teilen? Das wäre nur für den Fall, dass die Zimmer nicht reichen. 
+
+
+Falls Sie Frau Clemens erst nach dem 31.März informieren sollten, können wir nicht garantieren, dass es noch ein Zimmer für Sie gibt.
+
+Falls Sie gar nicht an dem Kolloquium teilnehmen, oder an einem bestimmten Tag nicht können, bitte ich Sie, mich bis zum 31.3. darüber zu informieren, sodass wir beim Zusammenstellen des Kolloquiumsprogramms, Rücksicht darauf nehmen können.
+
+Daneben sind Sie eingeladen, eine 10-seitige Kurzfassung Ihrer Dissertation in dem LNI-Band "Ausgezeichnete Informatikdissertationen 2018" zu veröffentlichen. Nähere Information hierzu finden Sie unter http://www.wv.inf.tu-dresden.de/GIDiss/lni.html. Wichtig ist vor allem, dass Sie folgende Punkte dabei berücksichtigen:
+1. Bitte verwenden Sie den gleichen Stil wie in dem Beispiel unter http://www.wv.inf.tu-dresden.de/GIDiss/Beispieldatei.zip. Achten Sie dabei auch an den Stil der Referenzen (Literaturverzeichnis) und, dass Ihr Text nicht über den Rand geht.
+2. Die 10 Seiten sind inklusive Referenzen und KurzCV mit Foto.
+3. Bitte fügen Sie keine Header/ Footer ein.
+4. Der Titel muss in Deutsch sein und der englische Originaltitel muss in der Fussnote erscheinen.
+
+Die Einreichung erfolgt über das EasyChair System. Sie werden bald eine Einladungs-Mail des Systems mit Ihren Zugangsdaten erhalten.
+
+Bitte laden Sie eine vorläufige Version Ihrer Kurzfassung bis spätestens zum 30.4.2020 hoch,
+
+Ich unterstütze Herrn Professor Hölldobler bei der Organisation. Bei Fragen können Ihnen die FAQ unter http://www.wv.inf.tu-dresden.de/GIDiss/faq.html helfen. Ansonsten stehe ich selbstverständlich gerne zur Verfügung.
+
+Viele Grüße
+Emmanuelle Dietz
+
+----------------------
+Emmanuelle Dietz
+Knowledge Representation and Reasoning Group
+Technische Universität Dresden
+01062 Dresden, Germany
+
+Phone: +49 (0)351 463 39095
+E-mail: emmanuelle.dietz@tu-dresden.de'.
